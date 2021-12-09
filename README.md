@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sagerpascal)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🔭 I’m currently working on Computer Vision, NLP, RL
+- 🌱 I’m currently doing my MSc. in Data Science
+- 👯 I’m looking to collaborate on Deep Learning, Reinforcement Learning
+- 📫 How to reach me: [https://www.linkedin.com/in/pascal-sager-3b7403168/](https://www.linkedin.com/in/pascal-sager-3b7403168/)
+
 <!--
 **sagerpascal/sagerpascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

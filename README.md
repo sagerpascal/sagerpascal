@@ -2,9 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sagerpascal)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on Computer Vision, NLP, RL
-- 🌱 I’m currently doing my MSc. in Data Science
-- 👯 I’m looking to collaborate on Deep Learning, Reinforcement Learning
+I am a PhD student and data scientist focusing on deep learning, natural intelligence, and goal-driven algorithms. 
+Happy to collaborate on Computer Vision, NLP, or RL research projects.
+
 - 📫 How to reach me: [https://www.linkedin.com/in/pascal-sager-3b7403168/](https://www.linkedin.com/in/pascal-sager-3b7403168/)
 
 <!--
